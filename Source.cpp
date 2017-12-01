@@ -1,3 +1,6 @@
+//Joel Andrews Assign 3
+//Dr. Won
+//Due Nov 30
 #include <iostream>
 #include <vector>
 #include <string>
